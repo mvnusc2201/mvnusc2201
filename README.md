@@ -1,9 +1,7 @@
 # Manuel Sepúlveda
 
-### Desarrollador Full Stack · Estudiante de Ingeniería Civil Informática
-
-desarrollador Full Stack y estudiante de Ingeniería Civil Informática
-en la Universidad Andrés Bello, Santiago de Chile.
+### Full Stack Developer · Ing. Civil Informática UNAB
+Santiago de Chile.
 
 - **Frontend:** JavaScript, React, HTML y CSS.
 - **Python:** desarrollo y proyectos académicos.
