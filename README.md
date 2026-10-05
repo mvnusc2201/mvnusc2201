@@ -1,16 +1,22 @@
-## Hi there 👋
+# Manuel Sepúlveda
 
-<!--
-**mvnusc2201/mvnusc2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack · Estudiante de Ingeniería Civil Informática
 
-Here are some ideas to get you started:
+Soy desarrollador Full Stack y estudiante de Ingeniería Civil Informática
+en la Universidad Andrés Bello, Santiago de Chile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa construir aplicaciones web con interfaces claras,
+código mantenible y una buena integración entre frontend y backend.
+
+## Tecnologías
+
+- **Frontend:** JavaScript, React, HTML y CSS.
+- **Python:** desarrollo y proyectos académicos.
+- **Control de versiones:** Git y GitHub.
+
+## En este perfil
+
+Comparto proyectos de desarrollo web, trabajos académicos y ejercicios
+que reflejan mi aprendizaje y evolución como desarrollador.
+
+Puedes explorar una selección de mi trabajo en los repositorios destacados.
